@@ -1,4 +1,4 @@
-## Oii, eu sou a Ana Helena!
+## Oii, eu sou a Aninha!
 ## Atualmente estou estudando sobre Back-End!, e vou usar esse perfil pra postar projetinhos que estou fazendo nesse aprendizado!
 
 <div align="center">
