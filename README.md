@@ -29,8 +29,6 @@ Eu comecei minha jornada em front-end, no entanto, ao longo do tempo, descobri q
 " target="_blank"></a>
 <a><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white
 " target="_blank"></a>
-<a><img src="https://img.shields.io/badge/circle%20ci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white
-" target="_blank"></a>
 
 
 
