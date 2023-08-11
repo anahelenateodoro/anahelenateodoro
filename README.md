@@ -1,7 +1,7 @@
 ## Hello there 👋
 #
 
-- 😊 Oie, sou a Ana
+- 😊 Oie, sou a Aninha
 - 📗 Eu amo estudar coisas novas
 - ⭐ Atualmente estou aprendendo Golang, Python, AWS e R.
 - 🎲 amante de dados 
