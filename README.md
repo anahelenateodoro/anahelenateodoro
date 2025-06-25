@@ -46,6 +46,5 @@
 ## 📫 Vamos nos conectar!
 - 📧 E-mail: [ahelena9876@gmail.com](mailto:ahelena9876@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/ahelena9876](https://www.linkedin.com/in/ahelena9876)  
-- 🐦 Twitter: [@ahelena9876](https://twitter.com/ahelena9876)
 
 > “Dados não dormem — e eu também não, quando o desafio é grande!” 🚀
