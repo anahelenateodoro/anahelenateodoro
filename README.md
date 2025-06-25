@@ -1,4 +1,4 @@
-# Olá, eu sou a Aninha 👋
+# Oi, eu sou a Aninha 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ahelena9876&color=blue)
 
