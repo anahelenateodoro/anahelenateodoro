@@ -25,7 +25,7 @@
 
 ---
 
-## 📂 Projetos Recentes
+## 📂 Projetos Recentes - (Em construção)
 - **Pipeline de Dados com Databricks & GCS**  
   Automação de ingestão, transformação e visualização de grandes volumes de dados agrícolas.
 
